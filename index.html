@@ -179,17 +179,26 @@
 				</div>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-						<h1>Mahbubi & Riska</h1>
+						<h1>Acara</h1>
 						<p style="margin-bottom: 0">Kepada Bapak/Ibu/Saudara/i</p>
-						<p>Kami Mengundang Anda Untuk Hadir Di Acara Pernikahan Kami.</p>
-
+						<p id="myURL"></p>
+						<p>Kami Mengundang Anda Untuk Hadir Di Acara Kami.</p>
 						<button class="btn btn-primary" id="open-invitation">Buka Undangan</button>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+	
+	<script>
+		const queryString = window.location.search;
+		const urlParams = new URLSearchParams(queryString);
+		const name_type = urlParams.get('name')
+		console.log(name_type);
+		document.getElementById("myURL").innerHTML = name_type;
+	</script>
 
+	
 	<div id="fh5co-header">
 		<div class="container">
 			<img class="flower-1" style="position: absolute; right: 0; top: 0" src="images/background/flowers/top-right-1.svg">
