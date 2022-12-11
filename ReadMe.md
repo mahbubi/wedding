@@ -11,3 +11,8 @@
 - [Base Template](https://technext.github.io/wedding/)
 - [Github NgodingSolusi](https://github.com/NgodingSolusi/the-wedding-of-rehan-maulidan)
 
+
+### To Use
+Share with spesific guest
+https://mahbubi.github.io/wedding/?name=Name_Guest
+
