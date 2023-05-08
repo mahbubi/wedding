@@ -14,5 +14,5 @@
 
 ### To Use
 Share with spesific guest
-https://mahbubi.github.io/wedding/?name=Name_Guest
+https://wedding.mahbubi.my.id/wedding/?name=Name+Guest
 
