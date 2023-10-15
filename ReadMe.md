@@ -14,5 +14,5 @@
 
 ### To Use
 Share with spesific guest
-https://wedding.mahbubi.my.id/wedding/?name=Name+Guest
+https://wedding.mahbubi.my.id/?name=Name+Guest
 
